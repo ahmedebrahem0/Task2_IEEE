@@ -1,11 +1,10 @@
 body {
-    background-image: url(../imgs/1200px-50-shades-grey.svg.png);
+    background-image: url(../imgs/91VR2PiT6zL.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-size: 100%;
-
+    margin: 0;
 }
-.won {
+.all {
     width: 400px;
     margin: auto;
     height: 400px;
@@ -13,6 +12,10 @@ body {
     background-position: top;
     background-image: url(../imgs/WhatsApp\ Image\ 2022-11-03\ at\ 6.28.31\ PM.jpeg);
     border-radius: 50%;
+}
+.won {
+    background-color: rgba(0, 0, 0, .7);
+
 }
 .info {
     color: white;
@@ -23,10 +26,12 @@ body {
     font-style: italic;
 }
 .info p:hover {
-    color: #5c5c5c;
+    color: #747272;
 }
 
-
+.info h1{
+    color: #747272;
+}
 .two {
     color: #5c5c5c;
     width: 146px;
